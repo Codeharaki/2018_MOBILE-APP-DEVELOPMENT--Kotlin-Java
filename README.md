@@ -1,5 +1,5 @@
 # -Food-Ordering-App
-Android application fully deployable and can be used by restaurants, to list their Menu and accept customers orders.
+My android application for food restaurant.
 
 ## Built With
 Android studio
