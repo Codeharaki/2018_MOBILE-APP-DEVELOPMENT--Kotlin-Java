@@ -1,4 +1,4 @@
-# -Food-Ordering-App
+# -Food ordering application
 Android application for food restaurant.
 
 ## Built With
